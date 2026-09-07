@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+venv/
+.venv/
+
+# Generated intermediates. Regenerate by running the pipeline.
+data/*.npy
+data/*.npz
+data/*.csv
+results/**/*.npy
